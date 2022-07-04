@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Simulador</string>
+    <string name="ct_botao_txt_simulate">Botão de simulação de partidas</string>
+    <string name="ct_home_team">Imagem do tipo mandante</string>
+    <string name="ct_away_team_image">Imagem do tipo visitantw</string>
+
 </resources>
