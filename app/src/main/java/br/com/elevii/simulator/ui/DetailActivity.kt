@@ -1,4 +1,4 @@
-package br.com.elevii.simulator
+package br.com.elevii.simulator.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
