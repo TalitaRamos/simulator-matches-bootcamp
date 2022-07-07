@@ -1,7 +1,16 @@
 package br.com.elevii.simulator.domain
 
+import android.os.Parcelable
+import com.google.gson.annotations.SerializedName
+import kotlinx.parcelize.Parcelize
+
+@Parcelize
 data class Team (
+    @SerializedName("nome")
     val name: String,
+    @SerializedName("estrelas")
     val stars: Int,
-    val image: String
-)
+    @SerializedName("imagem")
+    val image: String,
+    var score: Int?
+) : Parcelable

@@ -4,5 +4,6 @@
     <string name="ct_botao_txt_simulate">Botão de simulação de partidas</string>
     <string name="ct_home_team">Imagem do tipo mandante</string>
     <string name="ct_away_team_image">Imagem do tipo visitantw</string>
+    <string name="error_api">Erro Inesperado</string>
 
 </resources>
